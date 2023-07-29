@@ -2,7 +2,6 @@
 # Hackathon #
 
 
-I
 # Introducing Voice CLI - Revolutionizing Terminal Interactions with ElevenLabs Voice AI!
 
 The age-old terminal is undergoing a remarkable transformation with **Voice CLI** powered by **ElevenLabs Voice AI**. This cutting-edge solution integrates state-of-the-art NLP and the most realistic Text to Speech and Voice Cloning software, making it the most advanced and unparalleled CLI experience.
